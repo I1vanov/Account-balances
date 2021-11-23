@@ -1,5 +1,5 @@
 specVersion: 0.0.1
-description: 'account-balance by I1vanov'
+description: 'account balances'
 repository: ''
 schema: ./schema.graphql
 network:
