@@ -1,7 +1,7 @@
 {
   "name": "account-balance",
   "version": "1.0.0",
-  "description": "account-balance by I1vanov",
+  "description": "account-balance",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
@@ -16,7 +16,7 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "I1vanov",
+  "author": "i1vanov",
   "license": "Apache-2.0",
   "devDependencies": {
     "@polkadot/api": "^5.7.1",
